@@ -1,0 +1,54 @@
+.App {
+  font-family: "Gentium Plus", serif;
+  font-family: "Playfair Display", serif;
+
+  text-align: center;
+}
+body {
+  background-color: #d7cec7;
+}
+.list {
+  background-color: white;
+  display: center;
+  width: 100%;
+  color: rgb(10, 10, 10);
+  margin-top: 30px;
+  border-radius: 40px;
+}
+.container {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
+  padding: 40px;
+}
+.buscar {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+.form {
+  display: flex;
+}
+
+input {
+  padding: 15px 10px;
+  outline: none;
+  width: 400px;
+}
+
+.agregar {
+  padding: 10px 17px;
+  border: color #c09f80;
+  color: white;
+  font-family: fantasy;
+  background-color: #76323f;
+  font-size: 1.4rem;
+}
+.tarea-2 {
+  font-size: 15px;
+  color: #76323f;
+}
